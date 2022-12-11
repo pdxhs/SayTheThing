@@ -1,0 +1,12 @@
+{
+  "name": "SayTheThing",
+  "version": "1.0",
+  "description": "New Text Auto TTS'd by Wavenet",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
